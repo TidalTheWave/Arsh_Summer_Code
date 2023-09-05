@@ -1,6 +1,5 @@
-package test;
+package misc_progs;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ConwayGame {

@@ -1,4 +1,4 @@
-package test;
+package misc_progs;
 
 public class Palindrome {
 	
